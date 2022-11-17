@@ -19,7 +19,7 @@ if (meteor.isTouching(player)) {
 
 meteor.setY(0)
 meteor.setX(randint(0, 4))
-speed = speed - 10
+speed = speed - 15
     }
 })
 
